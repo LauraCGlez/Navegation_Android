@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Papaya App</string>
+
+    <string name="textNombre">ingresar nombre</string>
+    <string name="textApellido">ingresar apellido</string>
+    <string name="textMensaje"></string>
+
+    <string name="btnHome"></string>
+    <string name="btnInformatica">Informática</string>
+    <string name="btnNavegacion">ir API JAVA</string>
+    <string name="btnCerrar">Cerrar</string>
+
+    <string name="titulo">Descubre la API de Java</string>
+</resources>
